@@ -1,0 +1,14 @@
+# missi_phoneext4_global-user 13 TKQ1.221114.001 V14.0.3.0.TGCMIXM release-keys
+- manufacturer: xiaomi
+- platform: bengal
+- codename: spes
+- flavor: missi_phoneext4_global-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: V14.0.3.0.TGCMIXM
+- tags: release-keys
+- fingerprint: Redmi/spes/spes:13/TKQ1.221114.001/V14.0.3.0.TGCMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phoneext4_global-user-13-TKQ1.221114.001-V14.0.3.0.TGCMIXM-release-keys
+- repo: redmi_spes_dump
